@@ -6,9 +6,10 @@
   | Copyright (c)      2020                                              |
   +----------------------------------------------------------------------+
   | Copyright  X-Painel Rental Code ®                                    |
-  | Email :  contato@grupothx.com      			                             |
+  | Email :  contato@grupothx.com      			                         |
   | WhatsApp e Fixo : 1146450330                                         |
-  |           			                                                     |
+  | https://github.com/Grupo-THX/X-Painel                                |
+  |           			                                                 |
   |        "Quanto mais aumenta meu conhecimento,                        |
   |                   mais evidente fica minha ignorância."              |
   |                                                                      |
