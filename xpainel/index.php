@@ -1,0 +1,1 @@
+<meta http-equiv="refresh" content="0; url=http://xpainel.com?cliente=<?=base64_encode(str_replace('www.','',$_SERVER['HTTP_HOST']))?>" />

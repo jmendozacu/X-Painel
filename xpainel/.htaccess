@@ -1,0 +1,21 @@
+RewriteEngine On
+
+######################################### REMOVE O WWW PARA EVITAR DUPLICIDADE DE CONTEÚDO
+#RewriteCond %{HTTP_HOST} ^www.(.*) [NC]
+#RewriteRule ^(.*) http://%1/$1 [R=301,L]
+
+######################################### APONTA PARA O ARQUIVO
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+######################################### PAGINAS ESTÁTICAS ESCONDENDO A TECNOLOGIA
+RewriteRule ^([0-9A-Za-z-_]+)$ /$1.php
+
+######################################### ERROS
+ErrorDocument 400 /xpainel/pegaerros.php
+ErrorDocument 404 /xpainel/pegaerros.php
+ErrorDocument 500 /xpainel/pegaerros.php
+ErrorDocument 501 /xpainel/pegaerros.php
+ErrorDocument 503 /xpainel/pegaerros.php
+ErrorDocument 504 /xpainel/pegaerros.php
+ErrorDocument 505 /xpainel/pegaerros.php

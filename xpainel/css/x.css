@@ -1,0 +1,37 @@
+.centralizar_x{
+	text-align: center !important;
+}
+.direitar_x{
+	text-align: right !important;
+}
+.esquerdar_x{
+	text-align: left !important;
+}
+
+.negrito_x{
+	font-weight: bold !important;
+}
+
+.maiusculo_x{
+	text-transform: uppercase !important;
+}
+
+.minusculo_x{
+	text-transform: lowercase !important;
+}
+
+.capitalizado_x{
+	text-transform: capitalize !important;
+}
+
+.quebrar_palavra_x{
+	word-break: break-word;
+}
+
+.nomargin_x{
+	margin: 0 !important;
+}
+
+.nopadding_x{
+	padding: 0 !important;
+}

@@ -1,0 +1,8 @@
+[10-May-2019 00:14:21 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ';' in /home/espacovi/public_html/xpainel/class/A.class.php on line 32
+[10-May-2019 00:50:54 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '.5656' (T_DNUMBER), expecting ',' or ';' in /home/espacovi/public_html/xpainel/class/A.class.php on line 32
+[10-May-2019 01:00:09 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ',' in /home/espacovi/public_html/xpainel/class/A.class.php on line 40
+[10-May-2019 01:00:52 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ';' in /home/espacovi/public_html/xpainel/class/A.class.php on line 45
+[10-May-2019 01:00:56 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ';' in /home/espacovi/public_html/xpainel/class/A.class.php on line 45
+[10-May-2019 01:01:19 America/Sao_Paulo] PHP Fatal error:  Call to undefined function uploaded_file() in /home/espacovi/public_html/xpainel/class/A.class.php on line 40
+[10-May-2019 01:45:27 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '{' in /home/espacovi/public_html/xpainel/class/A.class.php on line 73
+[10-May-2019 01:59:02 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected ')' in /home/espacovi/public_html/xpainel/class/A.class.php on line 55
